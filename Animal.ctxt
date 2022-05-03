@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ classe\ que\ representa\ um\ Animal\ e\ estabelece\ um\ relacionamento\ de\ agrega\u00E7\u00E3o\ com\ classe\ Zoologico\r\n\ \r\n\ @author\ Rugelli\ Oliveira\r\n\ @version\ 2022-03-17\r\n
+comment1.params=nome\ especie\ quantidadeDePatas\ somCaracteristico
+comment1.target=Animal(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=java.lang.String\ getEspecie()
+comment4.params=
+comment4.target=int\ getQuantidadePatas()
+comment5.params=
+comment5.target=java.lang.String\ getSom()
+comment6.params=nome
+comment6.target=java.lang.String\ getDescricao(java.lang.String)
+numComments=7

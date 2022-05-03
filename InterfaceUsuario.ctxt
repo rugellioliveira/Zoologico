@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=InterfaceUsuario
+comment0.text=\r\n\ classe\ InterfaceUsuario\ implementada\ para\ permitir\ que\ o\ usu\u00E1rio\ utilize\ comandos\ de\ entrada/sa\u00EDda.\r\n\ \r\n\ @author\ Rugelli\ Oliveira\r\n\ @version\ 2022-03-17\r\n
+comment1.params=
+comment1.target=InterfaceUsuario()
+comment2.params=
+comment2.target=void\ iniciarFuncionamento()
+comment3.params=
+comment3.target=int\ exibirMenu()
+comment3.text=\r\n\ Exibe\ o\ menu\ para\ o\ usuario\ e\ retorna\ a\ opcao\ escolhida\ por\ ele\r\n\ \r\n\ @return\ Opcao\ de\ menu\ escolhida\ pelo\ usuario\r\n
+numComments=4

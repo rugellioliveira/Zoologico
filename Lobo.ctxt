@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Lobo
+comment0.text=\ Classe\ que\ representa\ um\ Lobo\ \r\n\ Lobo\ herda\ da\ classe\ Mamifero\r\n\ \r\n\ @author\ Rugelli\ Oliveira\r\n\ @version\ 2022-03-17\r\n
+comment1.params=nome\ corPelo
+comment1.target=Lobo(java.lang.String,\ java.lang.String)
+numComments=2

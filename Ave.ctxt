@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ave
+comment0.text=\r\n\ Classe\ que\ representa\ uma\ Ave\r\n\ Ave\ herda\ da\ classe\ Animal(\ tem\ nome,\ especie,\ quantidade\ de\ patas\ e\ somcaracter\u00EDstico)\r\n\ E\ acrescenta\ se\ a\ ave\ voa\ bem\ ou\ mal\r\n\ \r\n\ @author\ Rugelli\ Oliveira\r\n\ @version\ 2022-03-17\r\n
+comment1.params=nome\ especie\ quantidadeDePatas\ somCaracteristico\ voamBem
+comment1.target=Ave(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=boolean\ getVoamBem()
+comment3.params=nome
+comment3.target=java.lang.String\ getDescricao(java.lang.String)
+numComments=4

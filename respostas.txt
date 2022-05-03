@@ -1,0 +1,26 @@
+a) Indique pelo menos uma variável polimórfica utilizada no seu código e explique porque ela é
+uma variável polimórfica.
+
+R: A variável "animal" utilizada na classe Zoologico é uma variável polimórfica. Pois, ao declarar a variável
+   na 11ª linha seu tipo estático é Animal, ao longo do código ela assume tipos dinâmicos diferentes como, por exemplo,
+   Cachorro, Gato, Lobo, Galinha e Aguia. Dessa forma, percebe-se que foi mencionado está de acordo com o conceito de variável 
+   polimórfica, ou seja, é uma variável que pode ter tipos dinâmicos diferentes em momentos diferentes, desde que um seja subtipo de outro.
+
+
+b) Identifique algum ponto no código onde está sendo usado o princípio da substituição e explique
+o que é este princípio.
+
+R: Princípio da substituição é a possibilidade de usar um objeto de uma subclasse onde um objeto da superclasse é esperado, ou seja, em
+substituição a ele. Na classe Zoologico na 10ª linha é declarada uma coleção do tipo Animal, pelo princípio da substituição podemos guardar nessa 
+coleção objetos dos tipos Cachorro, Gato, Lobo, Galinha e Aguia. Ou seja, o tipo dinâmico dos objetos na coleção será das subclasses da classe Animal.
+
+
+c) Identifique algum ponto no código onde uma variável tem tipo estático e tipo dinâmico diferentes (indique quais são os tipos estático e dinâmica da variável neste ponto).
+
+R: Na classe Zoologico na 11ª linha a variável animal tem tipo estático Animal e na linha 19ª ela assume o tipo dinâmico Cachorro.
+
+
+d) Identifique onde está sendo usado polimorfismo de método e explique como ele funciona.
+
+R: Na classe Zoologico na linha 72ª linha, pelo dynamic dispatch ao chamar o método getDescricao() de um objeto da coleção de animais, o método a ser
+executado será o do tipo dinâmico (Mamifero ou Ave), implementado no final das respectivas classes.

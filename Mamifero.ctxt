@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Mamifero
+comment0.text=\r\n\ Classe\ que\ representa\ um\ Mam\u00EDfero\r\n\ Mam\u00EDfero\ herda\ da\ classe\ Animal(\ tem\ nome,\ especie,\ quantidade\ de\ patas\ e\ somcaracter\u00EDstico)\r\n\ E\ acrescenta\ qual\ a\ cor\ do\ pelo\ \r\n\ \r\n\ @author\ Rugelli\ Oliveira\r\n\ @version\ 2022-03-17\r\n
+comment1.params=nome\ especie\ quantidadeDePatas\ somCaracteristico\ corPelo
+comment1.target=Mamifero(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCorPelo()
+comment3.params=nome
+comment3.target=java.lang.String\ getDescricao(java.lang.String)
+numComments=4
